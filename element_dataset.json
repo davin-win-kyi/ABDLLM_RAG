@@ -1,0 +1,173 @@
+{
+  "Elements": [
+    {
+      "ID": "825ad325b9d2ad80",
+      "Element_descriptor": "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "div",
+      "Neighbor_elements": [
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "a33e07f914821f8e",
+      "Element_descriptor": "Beta badge next to Sign in text; size=220x20px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "div",
+      "Neighbor_elements": [
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in; size=40x16px, color=rgb(64, 64, 64), font-size=12px, font-weight=600, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "9d1f058a4986e7f9",
+      "Element_descriptor": "Beta badge; size=37x20px, color=rgb(77, 77, 77), bg=rgb(235, 235, 235), font-size=11px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "span",
+      "Neighbor_elements": [
+        "Email label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in; size=40x16px, color=rgb(64, 64, 64), font-size=12px, font-weight=600, saturation_fg=0%, saturation_bg=0%",
+        "Pass status label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge next to Sign in text; size=220x20px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "a0ce6d053c87b035",
+      "Element_descriptor": "Sign in; size=40x16px, color=rgb(64, 64, 64), font-size=12px, font-weight=600, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "span",
+      "Neighbor_elements": [
+        "Beta badge; size=37x20px, color=rgb(77, 77, 77), bg=rgb(235, 235, 235), font-size=11px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge next to Sign in text; size=220x20px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "a16d03462beaa497",
+      "Element_descriptor": "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "div",
+      "Neighbor_elements": [
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge next to Sign in text; size=220x20px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "0a18ae08a59af516",
+      "Element_descriptor": "Email label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "span",
+      "Neighbor_elements": [
+        "Beta badge; size=37x20px, color=rgb(77, 77, 77), bg=rgb(235, 235, 235), font-size=11px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Pass status label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in; size=40x16px, color=rgb(64, 64, 64), font-size=12px, font-weight=600, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link; size=43x16px, color=rgb(80, 89, 98), font-size=12px, font-weight=400, saturation_fg=10%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "a5f48026b0306cd2",
+      "Element_descriptor": "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "input",
+      "Neighbor_elements": [
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge next to Sign in text; size=220x20px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "518a839ce4bf9aed",
+      "Element_descriptor": "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "div",
+      "Neighbor_elements": [
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "effd4cffa4e75b32",
+      "Element_descriptor": "Pass status label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "span",
+      "Neighbor_elements": [
+        "Forgot password link; size=43x16px, color=rgb(80, 89, 98), font-size=12px, font-weight=400, saturation_fg=10%, saturation_bg=0%",
+        "Email label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge; size=37x20px, color=rgb(77, 77, 77), bg=rgb(235, 235, 235), font-size=11px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in; size=40x16px, color=rgb(64, 64, 64), font-size=12px, font-weight=600, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "1ece381defb4e30b",
+      "Element_descriptor": "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "input",
+      "Neighbor_elements": [
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "3fa4e3b19c6cef0a",
+      "Element_descriptor": "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "div",
+      "Neighbor_elements": [
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "25048394f3009be2",
+      "Element_descriptor": "Forgot password link; size=43x16px, color=rgb(80, 89, 98), font-size=12px, font-weight=400, saturation_fg=10%, saturation_bg=0%",
+      "Element_type": "a",
+      "Neighbor_elements": [
+        "Pass status label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email label; size=52x16px, color=rgb(77, 77, 77), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Beta badge; size=37x20px, color=rgb(77, 77, 77), bg=rgb(235, 235, 235), font-size=11px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    },
+    {
+      "ID": "5aeb01c976f54741",
+      "Element_descriptor": "Submit form button; size=80x24px, color=rgb(51, 51, 51), bg=rgb(230, 230, 230), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+      "Element_type": "button",
+      "Neighbor_elements": [
+        "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
+        "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
+      ],
+      "Element feedback": []
+    }
+  ]
+}
