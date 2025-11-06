@@ -1,9 +1,0 @@
-{
-    "intial_profile": {
-        "user_description": ["low vision"],
-        "user_language": "English", 
-        "os": "macos",
-        "browser": { "name": "Chrome", "version": "latest"},
-        "assistive tech": "voiceover"
-    }
-}

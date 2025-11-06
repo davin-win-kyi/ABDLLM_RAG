@@ -1,0 +1,17 @@
+{
+  "intial_profile": {
+    "user_description": [
+      "low vision",
+      "prefers larger text (16px+)",
+      "needs larger touch targets and controls",
+      "prefers very large form inputs and buttons (inputs ~200x200px, buttons ~100x50px)"
+    ],
+    "user_language": "English",
+    "os": "macos",
+    "browser": {
+      "name": "Chrome",
+      "version": "latest"
+    },
+    "assistive tech": "voiceover"
+  }
+}

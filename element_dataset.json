@@ -11,7 +11,7 @@
         "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
         "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
       ],
-      "Element feedback": []
+      "Element feedback": ["make element larger, to the size 200by200px"]
     },
     {
       "ID": "a33e07f914821f8e",
@@ -89,7 +89,7 @@
         "Password input field; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
         "Password input field labeled Pass; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
       ],
-      "Element feedback": []
+      "Element feedback": ["make element larger, to the size 200by200px"]
     },
     {
       "ID": "518a839ce4bf9aed",
@@ -128,7 +128,7 @@
         "Forgot password link and Submit button; size=220x24px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
         "Email input field with placeholder name@example.com; size=220x28px, color=rgb(51, 51, 51), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
       ],
-      "Element feedback": []
+      "Element feedback": ["make element larger, to the size 200by200px"]
     },
     {
       "ID": "3fa4e3b19c6cef0a",
@@ -167,7 +167,7 @@
         "Sign in panel with email and password fields, Forgot? link, and Submit button; size=238x136px, color=rgb(51, 51, 51), bg=rgb(255, 255, 255), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%",
         "Email address input field with placeholder name@example.com; size=134x28px, color=rgb(51, 51, 51), bg=rgb(250, 250, 250), font-size=12px, font-weight=400, saturation_fg=0%, saturation_bg=0%"
       ],
-      "Element feedback": []
+      "Element feedback": ["make element larger, to the size 100by50px"]
     }
   ]
 }
